@@ -1,0 +1,19 @@
+#resultados {
+    display: flex;
+    flex-direction: column;
+}
+
+.resultado {
+    background-color: antiquewhite;
+    margin: 5px;
+}
+
+.badge {
+    background-color: orangered;
+    display: inline-flex;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
